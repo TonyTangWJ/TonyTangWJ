@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, friends 👋
+😄 Welcome to my personl profile
 <!--
 **TonyTangWJ/TonyTangWJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
