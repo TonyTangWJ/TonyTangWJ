@@ -1,5 +1,10 @@
 ## Hi, friends 👋
 😄 Welcome to my personl profile
+⚡ I have continuously made many high-capacity tools, and all these tools can be connected with AI, such as Fast Reporting:
+✨ Data-Selection-SQL: Select data from different databases with SQL files and save them into *.csv files.
+✨ Data-Validation-PY: Validate tables by python with high capacity. With this tool, 100K rows of data can be validated in 8 seconds.
+✨ SAP-AutoAction: Control SAP operation automatically.
+🔭 Keep developing...
 <!--
 **TonyTangWJ/TonyTangWJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
